@@ -1,2 +1,2 @@
 # optiomist
-A simple implementation of a result pattern
+A simple implementation of an optional value pattern.
