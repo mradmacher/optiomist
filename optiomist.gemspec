@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = 'optiomist'
-  s.version = '0.0.2'
+  s.version = '0.0.3'
   s.summary = 'A simple implementation of an optional value pattern'
   s.description = 'Optiomist represents an optional value. Be an optimist. The glass will never be half nil.'
   s.authors = ['Michał Radmacher']
